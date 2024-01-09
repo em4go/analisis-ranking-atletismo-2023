@@ -1,3 +1,6 @@
+# data files
+ranking_sub18/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
