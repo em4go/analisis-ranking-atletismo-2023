@@ -29,3 +29,5 @@ if event != "Todos":
     st.dataframe(df)
 
     draw_charts(df, mixed_genders, skew)
+else:
+    st.write("Select an event on the sidebar to show the data")
