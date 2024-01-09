@@ -19,7 +19,7 @@ streamlit run main.py
 
 ## TODO
 
-[X] Create a ranking that can be filtered and sorted
-[X] Create graphs for each chosen test of the ranking
-[X] Create a filter to divide the data between different categories (gender, age, etc.)
-[ ] Create a section to answer questions about the data
+- [x] Create a ranking that can be filtered and sorted
+- [x] Create graphs for each chosen test of the ranking
+- [x] Create a filter to divide the data between different categories (gender, age, etc.)
+- [ ] Create a section to answer questions about the data
