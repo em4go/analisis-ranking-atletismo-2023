@@ -6,7 +6,12 @@ The data is obtained from the [Spanish Athletics Federation](https://www.atletis
 
 ![Image of the web app](captura_pantalla.png)
 
-## How to run
+## Deployment
+
+The project is deployed in [Streamlit Cloud](https://streamlit.io/cloud).
+You can access the web app [here](https://athletics-ranking-an4lysis-2023.streamlit.app/).
+
+## How to run locally
 
 Run the following command to run:
 
@@ -16,10 +21,3 @@ source venv/bin/activate
 pip install -r requirements.txt
 streamlit run main.py
 ```
-
-## TODO
-
-- [x] Create a ranking that can be filtered and sorted
-- [x] Create graphs for each chosen test of the ranking
-- [x] Create a filter to divide the data between different categories (gender, age, etc.)
-- [ ] Create a section to answer questions about the data
